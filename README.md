@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0098-validate-binary-search-tree) |
 | [1905-count-sub-islands](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -57,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3334-find-the-maximum-factor-score-of-array) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
