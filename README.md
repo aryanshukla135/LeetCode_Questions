@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0098-validate-binary-search-tree) |
+| [0207-course-schedule](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1905-count-sub-islands](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1905-count-sub-islands](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1905-count-sub-islands) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0802-find-eventual-safe-states) |
 ## String
@@ -111,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
