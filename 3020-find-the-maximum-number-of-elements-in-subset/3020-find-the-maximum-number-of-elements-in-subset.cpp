@@ -15,19 +15,19 @@ public:
             result = mp[1];
         }
 
-        for(auto &[num,_] : mp ){
+        for(auto i: mp ){
+            long long num = i.first;
 
             if(num == 1){
                 continue ;
             }
             long long curr = num ;
             int len =0;
-
             while(mp.count(curr) && mp[curr]>1){
                 len +=2;
                 curr = curr*curr;
             }
-            if(mp.count(curr) ==1){
+            if(mp.count(curr) == 1){
                 len+=1;
             }else{
                 len-=1;
@@ -36,6 +36,6 @@ public:
             result = max(len,result);
 
         }
-        return result; 
+        return result;
     }
 };
