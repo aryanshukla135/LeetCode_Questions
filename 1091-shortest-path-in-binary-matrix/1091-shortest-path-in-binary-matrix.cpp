@@ -12,13 +12,13 @@ public:
         int delcol[] = {0,+1,+1,+1,0,-1,-1,-1};
 
           //{dis,{row,col}}
-        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>> pq ;
+          queue<pair<int,pair<int,int>>> pq;
           pq.push({1,{0,0}}) ;
 
         while(!pq.empty()){
-            int dist = pq.top().first ;
-            int row = pq.top().second.first ;
-            int col = pq.top().second.second ;
+            int dist = pq.front().first ;
+            int row = pq.front().second.first ;
+            int col = pq.front().second.second ;
             pq.pop();
             if(row == n-1 && col == n-1){
                 return dist;
