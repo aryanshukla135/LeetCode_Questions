@@ -8,16 +8,16 @@ public:
         int delcol[] = {0,+1,0,-1};
         vector<vector<int>> dist(n , vector<int>(m,1e9));
         //{diff,{row,col}}
-        priority_queue<pair<int,pair<int,int>>,vector<pair<int ,
-        pair<int,int>>>,greater<pair<int,pair<int,int>>>> pq ;
-
+       // priority_queue<pair<int,pair<int,int>>,vector<pair<int ,
+        //<int,int>>>,greater<pair<int,pair<int,int>>>> pq ;
+         queue<pair<int,pair<int,int>>> pq;
         pq.push({0,{0,0}});
         dist[0][0] = 0 ;
 
         while(!pq.empty()){
-            int diff = pq.top().first;
-            int row = pq.top().second.first ;
-            int col = pq.top().second.second;
+            int diff = pq.front().first;
+            int row = pq.front().second.first ;
+            int col = pq.front().second.second;
 
             pq.pop();
 
