@@ -13,9 +13,7 @@ public:
                 arr[i]=arr[i-1]+1;
             }
         }
-        for(int i : arr){
-            cout<<i<<" ";
-        }
+        
         return arr[n-1];
     }
 };
