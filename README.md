@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 ## Number Theory
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Divide and Conquer
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
