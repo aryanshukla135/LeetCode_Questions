@@ -31,9 +31,7 @@ public:
         }
         int i =1 ;
         int maxi = 0;
-        for(int i : zero){
-            cout<<i<<" ";
-        }
+        
         while(i<n-1){
           int val = one[i]+zero[i];
           i++;
