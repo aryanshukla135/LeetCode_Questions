@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -183,10 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Topological Sort
 |  |
