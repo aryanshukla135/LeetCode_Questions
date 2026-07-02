@@ -46,7 +46,7 @@ public:
                 }
              }
           }
-          cout<<dist[n-1][m-1];
+          
           return false;
     }
 };
