@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
