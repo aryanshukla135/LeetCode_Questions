@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0210-course-schedule-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0433-minimum-genetic-mutation) |
+| [0684-redundant-connection](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
