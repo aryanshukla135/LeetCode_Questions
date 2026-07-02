@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0210-course-schedule-ii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0210-course-schedule-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0433-minimum-genetic-mutation) |
+| [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1905-count-sub-islands) |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
