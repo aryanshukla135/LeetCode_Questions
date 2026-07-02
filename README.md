@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
