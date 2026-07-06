@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Memoization
 |  |
 | ------- |
@@ -335,5 +337,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 <!---LeetCode Topics End-->
