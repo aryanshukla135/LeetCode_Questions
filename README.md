@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3169-count-days-without-meetings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3169-count-days-without-meetings) |
 ## Math
 |  |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Heap (Priority Queue)
@@ -312,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
