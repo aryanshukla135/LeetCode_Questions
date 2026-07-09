@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3210-find-the-encrypted-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3210-find-the-encrypted-string) |
