@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0827-making-a-large-island) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1046-last-stone-weight](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1046-last-stone-weight) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0797-all-paths-from-source-to-target) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0797-all-paths-from-source-to-target) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0827-making-a-large-island) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -191,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0778-swim-in-rising-water) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -346,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1338-reduce-array-size-to-the-half) |
