@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3169-count-days-without-meetings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3169-count-days-without-meetings) |
 ## Math
 |  |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3210-find-the-encrypted-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3210-find-the-encrypted-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
