@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
