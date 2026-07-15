@@ -1,9 +1,9 @@
 class Solution {
 public:
     int gcdOfOddEvenSums(int n) {
-        int sumofeven = n * (n +1) ;
-        int sumofodd = n * n ;
+        int sumeven = n*(n+1);
+        int sumodd = n*n ;
 
-        return gcd(sumofeven, sumofodd);
+        return gcd(sumeven,sumodd);
     }
 };
