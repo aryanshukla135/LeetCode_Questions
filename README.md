@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3021-alice-and-bob-playing-flower-game) |
