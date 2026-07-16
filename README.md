@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
