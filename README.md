@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3021-alice-and-bob-playing-flower-game) |
+| [3100-water-bottles-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3100-water-bottles-ii) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3100-water-bottles-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3100-water-bottles-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
