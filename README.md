@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1046-last-stone-weight) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0827-making-a-large-island) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1905-count-sub-islands) |
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0289-game-of-life) |
+| [1260-shift-2d-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2352-equal-row-and-column-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
