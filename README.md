@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2295-replace-elements-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2295-replace-elements-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2295-replace-elements-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2295-replace-elements-in-an-array) |
 | [2325-decode-the-message](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2325-decode-the-message) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2352-equal-row-and-column-pairs) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2295-replace-elements-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2295-replace-elements-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3100-water-bottles-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3100-water-bottles-ii) |
