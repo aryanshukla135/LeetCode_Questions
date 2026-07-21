@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3210-find-the-encrypted-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3210-find-the-encrypted-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
