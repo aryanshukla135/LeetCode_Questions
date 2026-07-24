@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3508-implement-router](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3508-implement-router) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3100-water-bottles-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3100-water-bottles-ii) |
 | [3101-count-alternating-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3101-count-alternating-subarrays) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3334-find-the-maximum-factor-score-of-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Design
 |  |
 | ------- |
