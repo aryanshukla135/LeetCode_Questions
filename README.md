@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3169-count-days-without-meetings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3169-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
