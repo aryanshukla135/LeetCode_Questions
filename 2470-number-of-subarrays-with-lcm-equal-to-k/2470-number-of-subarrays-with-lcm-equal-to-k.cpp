@@ -12,7 +12,7 @@ public:
                 if(l == k ){
                     cnt++;
                 }
-                if(l>k || k %l !=0){
+                if(l>k ){
                     break;
                 }
             }
