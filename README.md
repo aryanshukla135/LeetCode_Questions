@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2653-sliding-subarray-beauty](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2653-sliding-subarray-beauty) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3099-harshad-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3099-harshad-number) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
