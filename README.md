@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0063-unique-paths-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0289-game-of-life](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0289-game-of-life) |
+| [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0506-relative-ranks](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0187-repeated-dna-sequences) |
+| [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0904-fruit-into-baskets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
