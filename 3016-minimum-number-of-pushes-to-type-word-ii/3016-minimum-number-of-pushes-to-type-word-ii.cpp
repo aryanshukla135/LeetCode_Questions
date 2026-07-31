@@ -14,9 +14,11 @@ public:
             char ch = it.first ;
             pq.push({cnt,ch});
         }
+        
         int cnt =0;
         int times =1 ;
         int ans = 0 ;
+
         while(!pq.empty()){
             auto it = pq.top();
             pq.pop();
