@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0063-unique-paths-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0289-game-of-life](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0289-game-of-life) |
+| [0330-patching-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0330-patching-array) |
 | [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0506-relative-ranks](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0506-relative-ranks) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0330-patching-array) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1792-maximum-average-pass-ratio](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1792-maximum-average-pass-ratio) |
