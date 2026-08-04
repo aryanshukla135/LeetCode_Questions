@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0799-champagne-tower](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1406-stone-game-iii) |
