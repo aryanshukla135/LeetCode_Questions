@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3659-partition-array-into-k-distinct-groups) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Design
 |  |
 | ------- |
