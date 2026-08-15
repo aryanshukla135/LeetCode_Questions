@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0289-game-of-life](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0289-game-of-life) |
 | [0330-patching-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0330-patching-array) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
