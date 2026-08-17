@@ -18,8 +18,31 @@ public:
         vector<vector<int>> dp(n,vector<int>(n,INT_MAX));
 
         int mini = INT_MAX ;
+        // for(int i =0 ; i<n ; i++){
+        //     mini = min(mini ,f(matrix,n-1,i,dp));
+        // }
+
+
+        // tabulation 
+        for(int i =0 ; i<n ; i++) dp[0][i] = matrix[0][i];
+
+        for(int i =1 ; i<n ; i++){
+            for(int j = 0 ; j<n ; j++){
+                int d = INT_MAX;
+                if(i-1 >=0) d = matrix[i][j] + dp[i-1][j];
+
+                int ld = INT_MAX;
+                if(i-1 >=0 && j-1 >= 0) ld = matrix[i][j] + dp[i-1][j-1];
+
+                int rd = INT_MAX;
+                if(i-1>=0 && j+1 < n) rd = matrix[i][j] + dp[i-1][j+1]; 
+
+                dp[i][j] = min(d,min(ld,rd));
+
+            }
+        }
         for(int i =0 ; i<n ; i++){
-            mini = min(mini ,f(matrix,n-1,i,dp));
+            mini = min(mini,dp[n-1][i]);
         }
         return mini ;
     }
