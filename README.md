@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
