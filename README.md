@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3310-remove-methods-from-project) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2653-sliding-subarray-beauty](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2653-sliding-subarray-beauty) |
 | [2661-first-completely-painted-row-or-column](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2661-first-completely-painted-row-or-column) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0993-cousins-in-binary-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0993-cousins-in-binary-tree) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Graph Theory
 |  |
 | ------- |
