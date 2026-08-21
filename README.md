@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1792-maximum-average-pass-ratio) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1898-maximum-number-of-removable-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1905-count-sub-islands](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1905-count-sub-islands) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1898-maximum-number-of-removable-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1898-maximum-number-of-removable-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1529-minimum-suffix-flips](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1529-minimum-suffix-flips) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1898-maximum-number-of-removable-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
