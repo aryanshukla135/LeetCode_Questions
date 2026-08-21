@@ -3,16 +3,17 @@ private:
     bool ispossible(string &s,string&p,vector<int>& removable ,int mid){
          int slen= s.length();
          int plen= p.length();
-         string str = s;
+         vector<bool>vis(slen,0);
+       
          for(int i =0 ; i<mid ; i++){
             int idx = removable[i];
-            str[idx] = '#';
+            vis[idx] = 1;
          }
          int i =0 ;
          int j = 0 ;
-         int strlen = str.length();
-         while(i<strlen && j<plen){
-             if(str[i] == p[j]){
+       
+         while(i<slen && j<plen){
+             if(s[i] == p[j] && vis[i] == 0){
                 j++;
              }
              i++;
@@ -36,6 +37,7 @@ public:
                 h = mid -1;
             }
         }
+        if(ans == -1) return 0 ;
         return ans ;
     }
 };
