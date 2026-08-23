@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1792-maximum-average-pass-ratio](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1792-maximum-average-pass-ratio) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1927-sum-game) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1927-sum-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1529-minimum-suffix-flips) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1898-maximum-number-of-removable-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1898-maximum-number-of-removable-characters) |
+| [1927-sum-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1927-sum-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1927-sum-game) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
