@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0135-candy) |
 | [0289-game-of-life](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0330-patching-array) |
 | [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0416-partition-equal-subset-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0684-redundant-connection](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
@@ -768,4 +772,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
