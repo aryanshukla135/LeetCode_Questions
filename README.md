@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0330-patching-array) |
 | [0954-array-of-doubled-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0954-array-of-doubled-pairs) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0070-climbing-stairs) |
