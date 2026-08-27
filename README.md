@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1463-cherry-pickup-ii) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1514-path-with-maximum-probability](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1514-path-with-maximum-probability) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1463-cherry-pickup-ii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1824-minimum-sideway-jumps](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1824-minimum-sideway-jumps) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2401-longest-nice-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2401-longest-nice-subarray) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
