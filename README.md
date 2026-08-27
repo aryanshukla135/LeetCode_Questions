@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2653-sliding-subarray-beauty) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2661-first-completely-painted-row-or-column](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2661-first-completely-painted-row-or-column) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1824-minimum-sideway-jumps) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Simulation
