@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0954-array-of-doubled-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0954-array-of-doubled-pairs) |
+| [0983-minimum-cost-for-tickets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1046-last-stone-weight](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1052-grumpy-bookstore-owner) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0931-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1406-stone-game-iii) |
