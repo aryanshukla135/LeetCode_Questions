@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Simulation
 |  |
 | ------- |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Design
 |  |
 | ------- |
