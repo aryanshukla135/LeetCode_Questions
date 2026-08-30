@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0433-minimum-genetic-mutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0433-minimum-genetic-mutation) |
+| [0516-longest-palindromic-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
 | [1079-letter-tile-possibilities](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1079-letter-tile-possibilities) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0799-champagne-tower) |
