@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1406-stone-game-iii) |
