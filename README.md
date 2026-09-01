@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0433-minimum-genetic-mutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0433-minimum-genetic-mutation) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0322-coin-change) |
