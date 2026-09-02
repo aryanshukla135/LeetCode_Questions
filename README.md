@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2090-k-radius-subarray-averages](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2140-solving-questions-with-brainpower) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2090-k-radius-subarray-averages](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2401-longest-nice-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2401-longest-nice-subarray) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
