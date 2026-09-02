@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0954-array-of-doubled-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0954-array-of-doubled-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0983-minimum-cost-for-tickets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1046-last-stone-weight](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1046-last-stone-weight) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0954-array-of-doubled-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0954-array-of-doubled-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -692,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1514-path-with-maximum-probability](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1514-path-with-maximum-probability) |
@@ -852,4 +857,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1143-longest-common-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
