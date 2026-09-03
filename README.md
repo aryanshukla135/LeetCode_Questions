@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0851-loud-and-rich) |
 | [0993-cousins-in-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0993-cousins-in-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1306-jump-game-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0993-cousins-in-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0993-cousins-in-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Graph Theory
 |  |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1079-letter-tile-possibilities](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1143-longest-common-subsequence) |
