@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Simulation
 |  |
