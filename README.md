@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0330-patching-array) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0954-array-of-doubled-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0954-array-of-doubled-pairs) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0877-stone-game) |
