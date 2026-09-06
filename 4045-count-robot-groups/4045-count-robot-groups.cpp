@@ -7,12 +7,10 @@ public:
     
         for(int i = n-2 ; i>=0 ; i--){
             int diff = position[i+1]-position[i];
-            if(diff <= distance){
+            if(diff <= distance || speed[i] > speed[j]){
                 continue;
             }
-            if(speed[i] > speed[j]){
-                continue;
-            }
+    
             cnt++;
             j= i;
             
