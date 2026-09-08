@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0274-h-index](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0274-h-index) |
 | [0506-relative-ranks](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Rolling Hash
 |  |
