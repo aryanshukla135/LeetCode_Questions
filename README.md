@@ -814,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0187-repeated-dna-sequences) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2401-longest-nice-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2401-longest-nice-subarray) |
