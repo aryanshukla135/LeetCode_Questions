@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1898-maximum-number-of-removable-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1905-count-sub-islands](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1905-count-sub-islands) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1824-minimum-sideway-jumps](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1824-minimum-sideway-jumps) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2140-solving-questions-with-brainpower](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2140-solving-questions-with-brainpower) |
