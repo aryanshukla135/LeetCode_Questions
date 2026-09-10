@@ -22,24 +22,30 @@ public:
     long long maxAlternatingSum(vector<int>& nums) {
         int n = nums.size();
         vector<vector<long long >> dp(n+1,vector<long long>(2,0));
-        //  return f(nums,0,0,dp);
+        //  return f(nums,0,0,dp); memorization will always give tle because of reuction call depth 
+        long long prev0 = 0;
+        long long prev1 = 0;
 
         for(int ind = n-1 ; ind>=0 ; ind--){
             for(int sign = 0 ; sign<2 ; sign++){
                 long long maxi = 0;
                 if(sign ==0){
-                    long long  take = nums[ind] + dp[ind+1][1];
-                    long long nottake = 0 + dp[ind+1][0];
+                    long long  take = nums[ind] + prev1;
+                    long long nottake = 0 + prev0;
                     maxi = max({maxi,take,nottake});
                 }else{
-                    long long take = - nums[ind] + dp[ind + 1][0];
-                    long long nottake = 0 + dp[ind+1][1];
+                    long long take = - nums[ind] + prev0;
+                    long long nottake = 0 + prev1;
                     maxi = max({maxi,take,nottake});
                 }
 
-            dp[ind][sign] = maxi;
+               if(sign == 0){
+                  prev0 = maxi;
+               }else{
+                  prev1 = maxi;
+               }
             }
         }
-        return dp[0][0];
+        return prev0;
     }
 };
