@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1049-last-stone-weight-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1049-last-stone-weight-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -908,12 +910,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1049-last-stone-weight-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1049-last-stone-weight-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
