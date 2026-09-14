@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1898-maximum-number-of-removable-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1898-maximum-number-of-removable-characters) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0115-distinct-subsequences) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0062-unique-paths) |
@@ -970,4 +973,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
