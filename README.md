@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1288-remove-covered-intervals) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1079-letter-tile-possibilities](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1079-letter-tile-possibilities) |
+| [1219-path-with-maximum-gold](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1219-path-with-maximum-gold) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Memoization
 |  |
