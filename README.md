@@ -989,4 +989,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
