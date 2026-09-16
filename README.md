@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1664-ways-to-make-a-fair-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1664-ways-to-make-a-fair-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1824-minimum-sideway-jumps](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1824-minimum-sideway-jumps) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -838,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 ## Backtracking
 |  |
