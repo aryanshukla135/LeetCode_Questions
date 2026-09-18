@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1386-cinema-seat-allocation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1405-longest-happy-string) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1529-minimum-suffix-flips) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1340-jump-game-v) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1405-longest-happy-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1405-longest-happy-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1529-minimum-suffix-flips) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
