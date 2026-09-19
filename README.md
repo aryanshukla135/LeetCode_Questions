@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2653-sliding-subarray-beauty) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2661-first-completely-painted-row-or-column](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2661-first-completely-painted-row-or-column) |
+| [2742-painting-the-walls](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2742-painting-the-walls) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2140-solving-questions-with-brainpower](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2140-solving-questions-with-brainpower) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2742-painting-the-walls](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2742-painting-the-walls) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
