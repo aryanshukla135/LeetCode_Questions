@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2090-k-radius-subarray-averages](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1630-arithmetic-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2295-replace-elements-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2295-replace-elements-in-an-array) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1927-sum-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -685,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
