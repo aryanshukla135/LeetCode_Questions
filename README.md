@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0096-unique-binary-search-trees) |
+| [0227-basic-calculator-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0227-basic-calculator-ii) |
 | [0292-nim-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0836-rectangle-overlap) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0187-repeated-dna-sequences) |
+| [0227-basic-calculator-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0227-basic-calculator-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0474-ones-and-zeroes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0227-basic-calculator-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
