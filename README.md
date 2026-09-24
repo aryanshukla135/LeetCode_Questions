@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3099-harshad-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3099-harshad-number) |
