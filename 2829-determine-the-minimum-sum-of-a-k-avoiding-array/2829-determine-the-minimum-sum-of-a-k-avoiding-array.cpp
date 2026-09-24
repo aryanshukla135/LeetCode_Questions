@@ -21,7 +21,6 @@ public:
         int it =1 ;
         while(n > 0){
             if(!vis.count(it)){
-                cout<<it<<" ";
                 sum += it ;
                 n--;
             }
