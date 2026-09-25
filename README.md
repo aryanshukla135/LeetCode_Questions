@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0572-subtree-of-another-tree) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0572-subtree-of-another-tree) |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3508-implement-router](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3508-implement-router) |
 ## Queue
@@ -962,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0227-basic-calculator-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1096-brace-expansion-ii) |
@@ -1088,4 +1093,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0572-subtree-of-another-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
