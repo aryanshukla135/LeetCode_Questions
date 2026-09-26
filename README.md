@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1792-maximum-average-pass-ratio](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1792-maximum-average-pass-ratio) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1824-minimum-sideway-jumps](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1824-minimum-sideway-jumps) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1898-maximum-number-of-removable-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1927-sum-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
