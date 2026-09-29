@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1905-count-sub-islands) |
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2352-equal-row-and-column-pairs) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2140-solving-questions-with-brainpower](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2140-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2742-painting-the-walls](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2742-painting-the-walls) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -1114,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Trie
 |  |
 | ------- |
