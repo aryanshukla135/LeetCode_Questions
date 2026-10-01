@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
