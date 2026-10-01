@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0139-word-break) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0139-word-break) |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0904-fruit-into-baskets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
