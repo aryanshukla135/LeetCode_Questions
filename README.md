@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0062-unique-paths) |
@@ -953,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0797-all-paths-from-source-to-target) |
@@ -1138,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
