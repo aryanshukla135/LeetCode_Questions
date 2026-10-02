@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0851-loud-and-rich) |
 | [0877-stone-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0954-array-of-doubled-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0954-array-of-doubled-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0983-minimum-cost-for-tickets) |
@@ -997,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-implement-router](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3508-implement-router) |
 ## Ordered Set
@@ -1162,4 +1166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0056-merge-intervals) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
