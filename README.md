@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2653-sliding-subarray-beauty) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Combinatorics
