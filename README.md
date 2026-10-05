@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1049-last-stone-weight-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
 | [0954-array-of-doubled-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0954-array-of-doubled-pairs) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1048-longest-string-chain](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1079-letter-tile-possibilities](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1096-brace-expansion-ii) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0680-valid-palindrome-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1048-longest-string-chain](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1898-maximum-number-of-removable-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0954-array-of-doubled-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0954-array-of-doubled-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1048-longest-string-chain](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1096-brace-expansion-ii) |
@@ -849,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1143-longest-common-subsequence) |
