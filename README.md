@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0419-battleships-in-a-board) |
 | [0474-ones-and-zeroes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0289-game-of-life) |
+| [0495-teemo-attacking](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
