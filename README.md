@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1514-path-with-maximum-probability](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1514-path-with-maximum-probability) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1630-arithmetic-subarrays) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1630-arithmetic-subarrays) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1824-minimum-sideway-jumps](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1824-minimum-sideway-jumps) |
