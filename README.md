@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0187-repeated-dna-sequences) |
+| [0264-ugly-number-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0264-ugly-number-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0096-unique-binary-search-trees) |
 | [0227-basic-calculator-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0227-basic-calculator-ii) |
+| [0264-ugly-number-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0264-ugly-number-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0322-coin-change) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
