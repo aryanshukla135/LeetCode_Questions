@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0330-patching-array) |
+| [0397-integer-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0416-partition-equal-subset-sum) |
@@ -1004,12 +1006,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0397-integer-replacement) |
 | [1137-n-th-tribonacci-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0187-repeated-dna-sequences) |
+| [0397-integer-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0397-integer-replacement) |
 | [0784-letter-case-permutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0784-letter-case-permutation) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1386-cinema-seat-allocation) |
