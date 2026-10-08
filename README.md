@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0227-basic-calculator-ii) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
