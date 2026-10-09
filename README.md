@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1529-minimum-suffix-flips) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1792-maximum-average-pass-ratio](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1792-maximum-average-pass-ratio) |
 | [1824-minimum-sideway-jumps](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1824-minimum-sideway-jumps) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1529-minimum-suffix-flips) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
@@ -1199,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
