@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3210-find-the-encrypted-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3210-find-the-encrypted-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -900,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3259-maximum-energy-boost-from-two-drinks) |
