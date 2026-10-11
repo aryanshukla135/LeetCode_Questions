@@ -1032,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0397-integer-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0397-integer-replacement) |
+| [0461-hamming-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0461-hamming-distance) |
 | [0784-letter-case-permutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0784-letter-case-permutation) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1386-cinema-seat-allocation) |
