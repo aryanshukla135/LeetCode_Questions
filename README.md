@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Two Pointers
 |  |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
