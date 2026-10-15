@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1247,4 +1250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
