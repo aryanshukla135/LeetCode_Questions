@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0419-battleships-in-a-board) |
+| [0473-matchsticks-to-square](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0495-teemo-attacking) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0473-matchsticks-to-square](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -1032,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0022-generate-parentheses) |
+| [0473-matchsticks-to-square](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0797-all-paths-from-source-to-target) |
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0397-integer-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0461-hamming-distance) |
+| [0473-matchsticks-to-square](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0473-matchsticks-to-square) |
 | [0784-letter-case-permutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0784-letter-case-permutation) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1386-cinema-seat-allocation) |
@@ -1266,4 +1270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
