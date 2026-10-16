@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2845-count-of-interesting-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2845-count-of-interesting-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2845-count-of-interesting-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2845-count-of-interesting-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1664-ways-to-make-a-fair-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2845-count-of-interesting-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2845-count-of-interesting-subarrays) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
