@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3099-harshad-number) |
 | [3100-water-bottles-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3100-water-bottles-ii) |
 | [3101-count-alternating-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3101-count-alternating-subarrays) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3210-find-the-encrypted-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3210-find-the-encrypted-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
