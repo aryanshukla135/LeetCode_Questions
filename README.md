@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3508-implement-router](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3508-implement-router) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3719-longest-balanced-subarray-i) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
