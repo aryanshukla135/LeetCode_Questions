@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2653-sliding-subarray-beauty](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2653-sliding-subarray-beauty) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2401-longest-nice-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2401-longest-nice-subarray) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2653-sliding-subarray-beauty) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
