@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2059-minimum-operations-to-convert-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2059-minimum-operations-to-convert-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1898-maximum-number-of-removable-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1630-arithmetic-subarrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
