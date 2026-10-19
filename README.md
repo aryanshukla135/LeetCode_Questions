@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2055-plates-between-candles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2055-plates-between-candles) |
 | [2059-minimum-operations-to-convert-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2059-minimum-operations-to-convert-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1898-maximum-number-of-removable-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1898-maximum-number-of-removable-characters) |
+| [2055-plates-between-candles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2055-plates-between-candles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2055-plates-between-candles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2055-plates-between-candles) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1664-ways-to-make-a-fair-array) |
+| [2055-plates-between-candles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2055-plates-between-candles) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2845-count-of-interesting-subarrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2845-count-of-interesting-subarrays) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
