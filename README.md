@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2055-plates-between-candles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2055-plates-between-candles) |
 | [2059-minimum-operations-to-convert-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2059-minimum-operations-to-convert-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Graph Theory
@@ -1335,4 +1339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## DP on Trees
+|  |
+| ------- |
+| [2049-count-nodes-with-the-highest-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2049-count-nodes-with-the-highest-score) |
 <!---LeetCode Topics End-->
