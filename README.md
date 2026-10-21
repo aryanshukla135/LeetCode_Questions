@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2028-find-missing-observations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2028-find-missing-observations) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2055-plates-between-candles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2055-plates-between-candles) |
 | [2059-minimum-operations-to-convert-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2059-minimum-operations-to-convert-number) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2028-find-missing-observations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2028-find-missing-observations) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2063-vowels-of-all-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2063-vowels-of-all-substrings) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2028-find-missing-observations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2028-find-missing-observations) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2295-replace-elements-in-an-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2295-replace-elements-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2352-equal-row-and-column-pairs) |
