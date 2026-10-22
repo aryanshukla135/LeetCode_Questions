@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0690-employee-importance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0655-print-binary-tree) |
 | [0684-redundant-connection](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0743-network-delay-time) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0264-ugly-number-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0433-minimum-genetic-mutation) |
+| [0690-employee-importance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
 | [0904-fruit-into-baskets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
@@ -669,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0690-employee-importance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0690-employee-importance) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0993-cousins-in-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
