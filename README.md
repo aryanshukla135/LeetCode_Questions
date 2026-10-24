@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-count-number-of-bad-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2364-count-number-of-bad-pairs) |
+| [2409-count-days-spent-together](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2325-decode-the-message](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2325-decode-the-message) |
+| [2409-count-days-spent-together](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2409-count-days-spent-together) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2575-find-the-divisibility-array-of-a-string) |
