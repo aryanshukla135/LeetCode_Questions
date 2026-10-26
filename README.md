@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0983-minimum-cost-for-tickets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1034-coloring-a-border](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1034-coloring-a-border) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1048-longest-string-chain) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0851-loud-and-rich) |
 | [0993-cousins-in-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1034-coloring-a-border](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0993-cousins-in-binary-tree) |
+| [1034-coloring-a-border](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1254-number-of-closed-islands) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0931-minimum-falling-path-sum) |
+| [1034-coloring-a-border](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1034-coloring-a-border) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1219-path-with-maximum-gold) |
