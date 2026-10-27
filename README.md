@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1898-maximum-number-of-removable-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1898-maximum-number-of-removable-characters) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
