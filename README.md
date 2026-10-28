@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3259-maximum-energy-boost-from-two-drinks) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3524-find-x-value-of-array-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -1157,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
