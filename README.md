@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3904-smallest-stable-index-ii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3524-find-x-value-of-array-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -1158,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
