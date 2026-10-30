@@ -31,7 +31,7 @@ public:
 
         int ans = 0;
         for(int i =0 ; i<n; i++){
-            int ind = 1 ;
+            int ind = 0 ;
             int temp  = 0 ;
             for(int j = m - 1 ; j>=0 ; j--){
                 if(grid[i][j] == 1){
@@ -42,7 +42,14 @@ public:
             ans += temp ;
         }
 
-       return ans/2;
+
+       for(int i =0 ; i<n ;i++){
+        for(int j =0 ; j<m ; j++){
+            cout<<grid[i][j]<<" ";
+        }
+        cout<<endl;
+       }
+       return ans;
 
     }
 };
