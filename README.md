@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0835-image-overlap) |
 | [0851-loud-and-rich](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0851-loud-and-rich) |
+| [0861-score-after-flipping-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0835-image-overlap) |
+| [0861-score-after-flipping-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1034-coloring-a-border](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1034-coloring-a-border) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0861-score-after-flipping-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0954-array-of-doubled-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0954-array-of-doubled-pairs) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1166,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0461-hamming-distance) |
 | [0473-matchsticks-to-square](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0473-matchsticks-to-square) |
 | [0784-letter-case-permutation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0784-letter-case-permutation) |
+| [0861-score-after-flipping-matrix](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0861-score-after-flipping-matrix) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
