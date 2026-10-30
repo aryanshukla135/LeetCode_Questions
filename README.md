@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2653-sliding-subarray-beauty) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2661-first-completely-painted-row-or-column](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2661-first-completely-painted-row-or-column) |
+| [2683-neighboring-bitwise-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2683-neighboring-bitwise-xor) |
 | [2742-painting-the-walls](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2742-painting-the-walls) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -1169,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2401-longest-nice-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2401-longest-nice-subarray) |
+| [2683-neighboring-bitwise-xor](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2683-neighboring-bitwise-xor) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
