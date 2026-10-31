@@ -71,7 +71,7 @@ Note that $A = [1, 2, 3]$ is  *not*  superincreasing: $A_3$ should be  **strictl
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-31T08:40:05.969Z  
+**Submitted:** 2026-10-31T08:41:34.596Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
@@ -93,6 +93,10 @@ int main() {
        for(int i = 0 ; i<n ; i++){
           nums[i] = strt ;
           strt = nums[i] +1 ;
+       }
+       if(k==1 && x == 1){
+           cout<<"YES"<<endl;
+           continue;
        }
        if(nums[k-1] >= x){
            cout<<"NO"<<endl;
