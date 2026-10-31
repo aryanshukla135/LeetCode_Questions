@@ -18,6 +18,10 @@ int main() {
           nums[i] = strt ;
           strt = nums[i] +1 ;
        }
+       if(k==1 && x == 1){
+           cout<<"YES"<<endl;
+           continue;
+       }
        if(nums[k-1] >= x){
            cout<<"NO"<<endl;
        }else{
