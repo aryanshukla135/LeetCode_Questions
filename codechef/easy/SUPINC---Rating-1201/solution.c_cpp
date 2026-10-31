@@ -1,0 +1,32 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int t ;
+    cin>>t ;
+    while(t--){
+       int n , k, x ;
+       cin>>n>>k>>x ;
+       
+       vector<int> nums(n);
+       nums[k-1] = x ;
+     
+       int strt = 1 ;
+       int prev = 0;
+       bool temp = true;
+       for(int i = 0 ; i<n ; i++){
+          nums[i] = strt ;
+          strt = nums[i] +1 ;
+       }
+       if(nums[k-1] >= x){
+           cout<<"NO"<<endl;
+       }else{
+           cout<<"YES"<<endl;
+       }
+        
+        
+        
+    }
+    
+   return 0; 
+}
