@@ -71,7 +71,7 @@ Note that $A = [1, 2, 3]$ is  *not*  superincreasing: $A_3$ should be  **strictl
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-31T08:41:52.973Z  
+**Submitted:** 2026-10-31T08:59:58.573Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
@@ -87,24 +87,33 @@ int main() {
        vector<int> nums(n);
        nums[k-1] = x ;
      
-       int strt = 1 ;
-       int prev = 0;
-       bool temp = true;
+      
        for(int i = 0 ; i<n ; i++){
-          nums[i] = strt ;
-          strt = nums[i] +1 ;
+          nums[i] = i+1;
        }
-       if(k==1 && x == 1){
-           cout<<"YES"<<endl;
-           continue;
+       vector<int> pre(n);
+       pre[0] = nums[0];
+       
+       if(n>=2){
+           pre[1] = nums[1];
        }
-       if(nums[k-1] >= x){
-           cout<<"NO"<<endl;
-       }else{
-           cout<<"YES"<<endl;
+       
+       for(int i = 2 ; i<n ; i++){
+           pre[i] = pre[i-1] + nums[i];
        }
-        
-        
+      if(k == 1 && x == 1){
+          cout<<"YES"<<endl;
+      }
+       if(k == 2 && x == 2){
+          cout<<"YES"<<endl;
+      }
+      if(nums[k-1] >= x){
+          cout<<"NO"<<endl;
+      }else{
+          cout<<"YES"<<endl;
+      }
+        // for(int i : pre) cout<<i<<" ";
+        // cout<<endl;
         
     }
     
