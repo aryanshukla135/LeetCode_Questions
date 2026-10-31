@@ -71,7 +71,7 @@ Note that $A = [1, 2, 3]$ is  *not*  superincreasing: $A_3$ should be  **strictl
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-31T08:41:34.596Z  
+**Submitted:** 2026-10-31T08:41:52.973Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
