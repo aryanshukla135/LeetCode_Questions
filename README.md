@@ -48,3 +48,30 @@
 *Last updated: 2026-11-02* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## Tree
+|  |
+| ------- |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## Depth-First Search
+|  |
+| ------- |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## Counting
+|  |
+| ------- |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## DP on Trees
+|  |
+| ------- |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+<!---LeetCode Topics End-->
