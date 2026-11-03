@@ -45,9 +45,9 @@ Explanation: The longest path where each two adjacent nodes have different chara
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms  
-**Memory:** 8.8 MB  
-**Submitted:** 2026-11-03T05:06:21.538Z  
+**Runtime:** 386 ms (beats 34.51%)  
+**Memory:** 197 MB (beats 45.57%)  
+**Submitted:** 2026-11-03T05:07:57.506Z  
 
 ```cpp
 class Solution {
@@ -64,7 +64,7 @@ private:
                         secondlargest = largest ;
                         largest = cnt ;
                     }
-                    else if(cnt == largest){
+                    else if(cnt > secondlargest){
                         secondlargest = cnt ;
                     }
                 }
