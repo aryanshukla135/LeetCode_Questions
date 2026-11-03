@@ -12,7 +12,7 @@ private:
                         secondlargest = largest ;
                         largest = cnt ;
                     }
-                    else if(cnt == largest){
+                    else if(cnt > secondlargest){
                         secondlargest = cnt ;
                     }
                 }
