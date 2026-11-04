@@ -9,7 +9,7 @@ int solve(int n ){
     int val = n - 5 ;
     int cnt = 1 ;
     cnt += val ;
-    return val ;
+    return cnt ;
     
 }
 
