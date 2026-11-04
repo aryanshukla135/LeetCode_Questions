@@ -2,7 +2,7 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-25-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-26-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-5_days-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-11--4--2026-green?style=for-the-badge)
 
@@ -18,14 +18,14 @@
 |:---:|:---:|
 | 🟢 Easy | **8** |
 | 🟡 Medium | **14** |
-| 🔴 Hard | **3** |
-| **Total** | **25** |
+| 🔴 Hard | **4** |
+| **Total** | **26** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| C++ | **19** |
+| C++ | **20** |
 | c_cpp | **6** |
 
 ## 📂 Repository Structure
@@ -48,30 +48,3 @@
 *Last updated: 2026-11-04* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Depth-First Search
-|  |
-| ------- |
-| [2360-longest-cycle-in-a-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2360-longest-cycle-in-a-graph) |
-## Breadth-First Search
-|  |
-| ------- |
-| [2360-longest-cycle-in-a-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2360-longest-cycle-in-a-graph) |
-## Graph Theory
-|  |
-| ------- |
-| [2360-longest-cycle-in-a-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2360-longest-cycle-in-a-graph) |
-## Topological Sort
-|  |
-| ------- |
-| [2360-longest-cycle-in-a-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2360-longest-cycle-in-a-graph) |
-## Kosaraju's Algorithm
-|  |
-| ------- |
-| [2360-longest-cycle-in-a-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2360-longest-cycle-in-a-graph) |
-## Tarjan's SCC Algorithm
-|  |
-| ------- |
-| [2360-longest-cycle-in-a-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2360-longest-cycle-in-a-graph) |
-<!---LeetCode Topics End-->
