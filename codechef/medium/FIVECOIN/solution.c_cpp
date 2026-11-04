@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int solve(int n ){
+    if(n<5){
+        return n ;
+    }
+    
+    int val = n - 5 ;
+    int cnt = 1 ;
+    cnt += val ;
+    return val ;
+    
+}
+
+int main() {
+    int n ;
+    cin>>n ;
+    
+    int ans = solve(n);
+    cout<<ans;
+}
