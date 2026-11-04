@@ -14,7 +14,7 @@ private:
             }
         }
         pathvis[node] = 0;
-        count[node] = 1 ;
+       // count[node] = 1 ;
     }
 public:
     int longestCycle(vector<int>& edges) {
