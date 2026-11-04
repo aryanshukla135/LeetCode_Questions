@@ -46,8 +46,8 @@ Explanation: There are no cycles in this graph.
 
 **Language:** C++  
 **Runtime:** 212 ms (beats 22.33%)  
-**Memory:** 164 MB (beats 24.92%)  
-**Submitted:** 2026-11-04T12:29:17.496Z  
+**Memory:** 164 MB (beats 24.87%)  
+**Submitted:** 2026-11-04T12:29:45.717Z  
 
 ```cpp
 class Solution {
@@ -66,7 +66,7 @@ private:
             }
         }
         pathvis[node] = 0;
-        count[node] = 1 ;
+       // count[node] = 1 ;
     }
 public:
     int longestCycle(vector<int>& edges) {
