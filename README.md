@@ -48,3 +48,30 @@
 *Last updated: 2026-11-04* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2360-longest-cycle-in-a-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2360-longest-cycle-in-a-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2360-longest-cycle-in-a-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2360-longest-cycle-in-a-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2360-longest-cycle-in-a-graph) |
+<!---LeetCode Topics End-->
