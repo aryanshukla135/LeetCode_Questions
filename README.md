@@ -119,6 +119,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1615-maximal-network-rank](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1615-maximal-network-rank) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Directed Acyclic Graph
 |  |
