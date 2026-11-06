@@ -57,11 +57,13 @@
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
 |  |
 | ------- |
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
+| [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
@@ -75,6 +77,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -115,6 +118,7 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 ## Graph Theory
 |  |
 | ------- |
