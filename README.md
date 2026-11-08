@@ -55,6 +55,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
+| [1267-count-servers-that-communicate](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1882-process-tasks-using-servers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
+| [1267-count-servers-that-communicate](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
@@ -102,6 +104,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
+| [1267-count-servers-that-communicate](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Union-Find
@@ -109,6 +112,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
+| [1267-count-servers-that-communicate](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Two Pointers
@@ -161,4 +165,12 @@
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
