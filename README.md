@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1882-process-tasks-using-servers) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
@@ -143,6 +144,7 @@
 | [1615-maximal-network-rank](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1615-maximal-network-rank) |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -184,4 +187,8 @@
 |  |
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
+## Design
+|  |
+| ------- |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
