@@ -58,6 +58,7 @@
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
 | [1267-count-servers-that-communicate](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1882-process-tasks-using-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1882-process-tasks-using-servers) |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
@@ -90,6 +91,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1882-process-tasks-using-servers) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -194,4 +196,12 @@
 |  |
 | ------- |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
