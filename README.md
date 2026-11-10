@@ -64,6 +64,7 @@
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
@@ -102,6 +103,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
