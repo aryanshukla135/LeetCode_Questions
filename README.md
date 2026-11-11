@@ -80,6 +80,7 @@
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -216,4 +217,8 @@
 |  |
 | ------- |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
