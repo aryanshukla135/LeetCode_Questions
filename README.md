@@ -65,6 +65,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
@@ -135,6 +136,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
+| [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -226,4 +229,8 @@
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
