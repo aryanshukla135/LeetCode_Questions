@@ -128,6 +128,7 @@
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Union-Find
 |  |
@@ -178,6 +180,7 @@
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -188,6 +191,7 @@
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -226,6 +230,7 @@
 |  |
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Design
 |  |
 | ------- |
