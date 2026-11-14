@@ -53,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0815-bus-routes) |
@@ -98,6 +99,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -159,6 +161,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Sorting
@@ -247,6 +250,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1094-car-pooling](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1094-car-pooling) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3364-minimum-positive-sum-subarray) |
