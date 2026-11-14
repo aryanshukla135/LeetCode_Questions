@@ -70,6 +70,7 @@
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3693-climbing-stairs-ii) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
@@ -239,6 +241,7 @@
 | ------- |
 | [1094-car-pooling](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1094-car-pooling) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
