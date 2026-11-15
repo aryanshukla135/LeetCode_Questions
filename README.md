@@ -66,6 +66,7 @@
 | [1882-process-tasks-using-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1882-process-tasks-using-servers) |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2392-build-a-matrix-with-conditions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
@@ -185,6 +186,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2392-build-a-matrix-with-conditions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -195,6 +197,7 @@
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2392-build-a-matrix-with-conditions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Shortest Path
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
+| [2392-build-a-matrix-with-conditions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Counting
 |  |
 | ------- |
@@ -234,6 +238,7 @@
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2392-build-a-matrix-with-conditions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Design
 |  |
 | ------- |
