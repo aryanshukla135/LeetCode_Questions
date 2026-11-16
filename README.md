@@ -125,6 +125,7 @@
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
 |  |
@@ -259,6 +260,7 @@
 | ------- |
 | [1094-car-pooling](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1094-car-pooling) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
