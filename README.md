@@ -137,6 +137,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3931-check-adjacent-digit-differences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3931-check-adjacent-digit-differences) |
 ## Depth-First Search
 |  |
 | ------- |
