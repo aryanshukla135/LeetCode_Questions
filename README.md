@@ -149,6 +149,7 @@
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -218,6 +221,7 @@
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -234,6 +238,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
