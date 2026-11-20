@@ -73,6 +73,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
@@ -104,6 +105,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
@@ -192,6 +194,7 @@
 | [2285-maximum-total-importance-of-roads](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Graph Theory
 |  |
 | ------- |
