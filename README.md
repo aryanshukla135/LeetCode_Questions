@@ -148,6 +148,7 @@
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
 | [1267-count-servers-that-communicate](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
+| [1462-course-schedule-iv](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1462-course-schedule-iv) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -163,6 +164,7 @@
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
 | [1267-count-servers-that-communicate](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
+| [1462-course-schedule-iv](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1462-course-schedule-iv) |
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -209,6 +211,7 @@
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
+| [1462-course-schedule-iv](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1462-course-schedule-iv) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1615-maximal-network-rank](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1615-maximal-network-rank) |
@@ -280,6 +283,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [1462-course-schedule-iv](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1462-course-schedule-iv) |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2392-build-a-matrix-with-conditions) |
