@@ -53,18 +53,14 @@ private:
 public:
     vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
          vector<vector<int>> graph(numCourses);
-         vector<int> indeg(numCourses);
+        
          for(auto it : prerequisites){
             int u = it[0];
             int v = it[1];
 
-            indeg[v]++;
             graph[u].push_back(v);
          }
-
-         //vector<int> top = topo(graph,indeg);
-
-        //  for(int i : top) cout<<i<<" "; 
+ 
          vector<bool> ans;
 
          for(auto it : queries){
