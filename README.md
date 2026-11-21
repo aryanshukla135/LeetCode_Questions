@@ -71,6 +71,7 @@
 | [2392-build-a-matrix-with-conditions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -153,6 +154,7 @@
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
@@ -170,6 +172,7 @@
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -182,6 +185,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 ## Two Pointers
 |  |
@@ -276,6 +280,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2392-build-a-matrix-with-conditions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Counting
 |  |
 | ------- |
