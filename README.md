@@ -76,6 +76,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -90,6 +91,7 @@
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
@@ -137,6 +139,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3931-check-adjacent-digit-differences](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3931-check-adjacent-digit-differences) |
 ## Depth-First Search
 |  |
@@ -149,6 +152,7 @@
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
 |  |
@@ -257,6 +261,7 @@
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
