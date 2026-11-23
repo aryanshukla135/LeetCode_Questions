@@ -67,6 +67,7 @@
 | [1882-process-tasks-using-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1882-process-tasks-using-servers) |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2392-build-a-matrix-with-conditions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -91,6 +92,7 @@
 | [0815-bus-routes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -136,6 +138,7 @@
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -223,6 +226,7 @@
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -239,6 +243,7 @@
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Shortest Path
@@ -291,6 +296,7 @@
 | ------- |
 | [1462-course-schedule-iv](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1462-course-schedule-iv) |
 | [2050-parallel-courses-iii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2050-parallel-courses-iii) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Design
