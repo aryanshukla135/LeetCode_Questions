@@ -82,6 +82,7 @@
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3693-climbing-stairs-ii) |
@@ -101,6 +102,7 @@
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
@@ -119,6 +121,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
@@ -364,4 +367,12 @@
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
