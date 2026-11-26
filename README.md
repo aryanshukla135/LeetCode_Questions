@@ -164,6 +164,7 @@
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
 |  |
@@ -183,6 +184,7 @@
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Union-Find
 |  |
@@ -279,6 +281,7 @@
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
