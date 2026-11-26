@@ -102,6 +102,7 @@
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [3360-stone-removal-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -312,6 +313,7 @@
 | [1094-car-pooling](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1094-car-pooling) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3360-stone-removal-game) |
 ## Ordered Set
 |  |
 | ------- |
