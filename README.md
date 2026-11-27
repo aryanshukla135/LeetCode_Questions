@@ -86,6 +86,7 @@
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -335,6 +337,7 @@
 | [2285-maximum-total-importance-of-roads](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
