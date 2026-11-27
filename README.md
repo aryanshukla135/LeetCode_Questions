@@ -144,6 +144,7 @@
 | [0399-evaluate-division](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0399-evaluate-division) |
 | [0752-open-the-lock](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/0839-similar-string-groups) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -160,6 +161,7 @@
 | [1267-count-servers-that-communicate](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
 | [1462-course-schedule-iv](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1462-course-schedule-iv) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -178,6 +180,7 @@
 | [1267-count-servers-that-communicate](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
 | [1462-course-schedule-iv](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1462-course-schedule-iv) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -378,6 +381,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
