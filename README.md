@@ -85,6 +85,7 @@
 | [3411-maximum-subarray-with-equal-products](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3607-power-grid-maintenance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3607-power-grid-maintenance) |
 | [3693-climbing-stairs-ii](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3693-climbing-stairs-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
@@ -98,6 +99,7 @@
 | [2747-count-zero-request-servers](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3607-power-grid-maintenance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3607-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3607-power-grid-maintenance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3607-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3607-power-grid-maintenance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3607-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -191,6 +195,7 @@
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3607-power-grid-maintenance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3607-power-grid-maintenance) |
 ## Union-Find
 |  |
 | ------- |
@@ -202,6 +207,7 @@
 | [2092-find-all-people-with-secret](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2092-find-all-people-with-secret) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
+| [3607-power-grid-maintenance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3607-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +255,7 @@
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3607-power-grid-maintenance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3607-power-grid-maintenance) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -326,6 +333,7 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3607-power-grid-maintenance](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3607-power-grid-maintenance) |
 ## Prefix Sum
 |  |
 | ------- |
