@@ -170,6 +170,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -292,6 +293,7 @@
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/1361-validate-binary-tree-nodes) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aryanshukla135/LeetCode_Questions/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
